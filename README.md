@@ -1,5 +1,5 @@
 # Book-your-seat
-A web application that enables user to book movie/show tickets online with ease.  (Just one complete package, other packages still under development)
+A web application that enables user to book movie/show tickets online with ease.  (Just one of complete package , other packages still under development)
 <br>
 <br>
 How can a user interact with this web application:<br>
