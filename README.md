@@ -7,9 +7,8 @@ How can a user interact with this web application:<br>
     2. Alreday Booked Seats: If the seat is already checked or booked, then the user cant select or deselect that seat as it is already            selected by another user for the same show/ movie.<br>
     3.Use can book the seat using stripe payments.
     
- <br>   
-<br>
-<hr>
+ <br>  
+ <hr>
 
 ![](https://raw.githubusercontent.com/taneajoshi/Book-your-seat/master/Images/SS.png)
 <br>
